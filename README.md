@@ -1,30 +1,14 @@
-## Hi there 👋
-
-<!--
-**Smily73/Smily73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hallo, ich bin Smily73!
 
 ## Über mich
 
 - 💻 **Beruf:** Entwickler (Developer)
 - 🕹️ **Seit:** 1993 in der Softwareentwicklung aktiv
-- 🖥️ **Anfänge:** Begonnen mit MacroMind Director auf dem Macintosh
+- 🖥️ **Anfänge:** Begonnen habe ich mit MacroMind Director auf dem Macintosh eines Freundes
 - 🪟 **Weiterentwicklung:** Erfahrungen gesammelt mit Visual Basic 3 unter Windows 95
 - ⚙️ **Technologien:** Schwerpunkt auf **VB.Net** und **C#**
 - 🧠 **Mindset:** Playfull – spielerisch, neugierig und mit Freude an neuen Herausforderungen
+- 🌱 **I’m currently learning:** GitHub Copilot
 
 ## Steckbrief
 
